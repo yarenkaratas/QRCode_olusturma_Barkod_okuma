@@ -1,0 +1,13 @@
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\bin\Debug\Barkod Oluşturma.exe.config
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\bin\Debug\Barkod Oluşturma.exe
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\bin\Debug\Barkod Oluşturma.pdb
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.csproj.AssemblyReference.cache
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod_Oluşturma.Form1.resources
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod_Oluşturma.Properties.Resources.resources
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.csproj.GenerateResource.cache
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.csproj.CopyComplete
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.exe
+C:\Users\ozgur\source\repos\Barkod Oluşturma\Barkod Oluşturma\obj\Debug\Barkod Oluşturma.pdb
